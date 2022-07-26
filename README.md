@@ -1,5 +1,5 @@
 # odin-recipes
-Hello! This is my first website that I've created with The Odin Project. I wanted to practice my skills and also learn about some of the technology that web developers are involved in on a day-to-day basis. 
+Hellooooooo! This is my first website that I've created with The Odin Project. I wanted to practice my skills and also learn about some of the technology that web developers are involved in on a day-to-day basis. 
 
 This is a recipe website with three recipes as of right now and very rough styling and template, but I'm super proud of it nonetheless! I learned alot about HTML, especially with links and images (like how to change the size of the image) I tried to make it look as neat as I could with my current knowledge. 
 
